@@ -1,6 +1,8 @@
-## Olá a todos 👋 sejam bem vindos ao meu repositório ✨especial ✨ de estudos
+## Olá a todos 👋 
 
-### 👩‍💻 Será através dele que documentarei minha jornada de estudos
+### sejam bem vindos ao meu repositório ✨especial ✨ de estudos
+
+### 👩‍💻 Será através dele em que documentarei toda minha jornada de estudos
 <!--
 
 **Here are some ideas to get you started:**
